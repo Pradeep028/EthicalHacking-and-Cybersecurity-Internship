@@ -1,0 +1,44 @@
+# These are the topics that are to be included in the record.
+1) My role in this internship.
+2) Introduction to cyber security and its terminologies.
+  .Phases of Hacking.
+  .Types of hackers.
+  .CIA.
+  .Social engineering.
+3) Introduction to Networking concepts & their working.
+  .Types of networks and introduction to servers.
+  .Types of Protocols and their uses.
+  .OSI, TCP-UDP models.
+4) Various cyber crimes and laws related to those crimes.
+5) Various IPC sections and IT Acts related to those crimes.
+6) Tools used for cyber security.
+  .Virtualization and Virtual Box.
+  .Kali Linux.
+  .Terminal.
+  .Burp Suite.
+  .Wireshark
+  .Ettercap.
+  .Some tools like Nmap, WPS scanner, dirb, Msf console, MSFVenom, Zydra, Zphisher, and John the Ripper.
+7) Practical e-mail phishing.
+8) Exploiting various machines using appropriate vulnerabilities in the MSF console.
+  .Eternal blue(Windows 7,8.1)
+  .Drupal(Linux).
+  .Using FTP and SSH to exploit a machine.
+  .Using MSFVenom to create payloads and exploit Android and Windows machines.
+9) Performing OTP bypass using Burp suite.
+10)Performing data tampering suing Burp suite.
+11)Essential hardware components in cyber security(Hunter cat card skimmers, RFID, Keyfobe relay attack).
+12)Credential sniffing using Wireshark.
+13)Using Event log viewer to manage and clear logs in the system.
+14)Introduction to steganography and performing challenges using various online tools.
+15)Password cracking for files using a dictionary and brute force attack in Zydra, John the Ripper.
+16)Phishing using Zphisher.
+17)ARP poisoning using ettercap.
+18)Admin password reset on Linux and Windows.
+19)CSRF using burp suite.
+20)Introduction to Bug-bounty and its basic terminologies.
+  .Information gathering.
+  .XSS payload to find a bug.
+  .CSRF attack to find a bug.
+  .Report a bug.
+21)Project Details.
